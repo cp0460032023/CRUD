@@ -1,0 +1,30 @@
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.exe.config
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.exe
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.pdb
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.AssemblyReference.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.Form1.resources
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.Properties.Resources.resources
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.GenerateResource.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.CoreCompileInputs.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.exe
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.pdb
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.exe.config
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.exe
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.pdb
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.AssemblyReference.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.Form1.resources
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.Properties.Resources.resources
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.GenerateResource.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.CoreCompileInputs.cache
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.exe
+C:\Users\luisr\OneDrive\Escritorio\Progra2\Ejercicios practicos\Parcial1\Ejercicio para parcila\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.pdb
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.exe.config
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.exe
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\bin\Debug\Cadenaconexion.pdb
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.AssemblyReference.cache
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.Form1.resources
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.Properties.Resources.resources
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.GenerateResource.cache
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.csproj.CoreCompileInputs.cache
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.exe
+C:\Users\xioma\OneDrive\Escritorio\Ejercicio Parcial\Cadenaconexion\Cadenaconexion\obj\Debug\Cadenaconexion.pdb
